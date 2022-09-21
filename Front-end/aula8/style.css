@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #131313;
+}
+.titulo-principal {
+    margin: bottom 22px;
+}
+
+.media-picture {
+    height: 400px;
+    background-image:url("https://www.diocesesa.org.br/wp-content/uploads/2017/08/Estrelas-Alem-do-Tempo-GirlPower-Filme-Corrida-Espacial-Resenha-Movie-Hidden-Figures-Indicacao-de-Filme-Mulheres-Negras-NASA-Matematica--850x425.jpg");
+    background-size:cover;
+    background-position:top; 
+}
+
+.review-score {
+    color:white;
+    background-color: #841f03;
+
+}
+
+
+h1 {
+    color:white
+}
+
+h2 {
+    color:steelblue
+}
+
+p {
+    color:#bdbdbd
+}
+
+a {
+    color:yellow
+}
+
+
+

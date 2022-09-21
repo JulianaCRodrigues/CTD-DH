@@ -1,0 +1,3 @@
+Software é um termo técnico que foi traduzido para a língua portuguesa como suporte lógico e trata-se de uma sequência de instruções a serem seguidas e/ou executadas, na manipulação, redirecionamento ou modificação de um dado ou acontecimento. 
+
+O hardware é um termo técnico que foi traduzido para a língua portuguesa como equipamento, e pode ser definido como um termo geral da língua inglesa, que se refere à parte física de computadores e outros sistemas microeletrônicos.

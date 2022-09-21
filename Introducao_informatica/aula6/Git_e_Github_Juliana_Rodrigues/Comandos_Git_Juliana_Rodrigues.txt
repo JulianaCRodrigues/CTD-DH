@@ -1,0 +1,39 @@
+Comandos de terminal
+
+crtl+l ou clear //Limpe o console
+
+mkdir nome_da_pasta //Crie uma pasta
+
+cd// Entre em uma pasta
+
+cd .. // Sair de uma pasta
+
+ls //Veja o que está dentro da pasta
+
+rm nome //Apaga o arquivo
+
+rm -r nome //Exclui o diretório e todos os arquivos que ele contém
+
+rm -rf nome // Exclui à força o diretório e todos os arquivos que ele contém
+
+
+git init // cria um repositório
+
+git config --global user.name nomeUsuario // agrega seu nome ao repositório
+
+git config --global user.email nomeUsuario@email.com // agrega seu email ao repositório
+
+git remote add origin https://github.com/DH/RepoRemoto // aponta um repositório remoto
+
+git add //adiciona todos os arquivos
+
+git commit -m "mensagem" // adiciona uma mensagem nas alteracoes feitas
+
+git status // mostra o estado dos arquivos
+
+git push origin master // envia as mudanças para o repositório remoto
+
+git status // rastreia o status do arquivo
+
+git log //mostra o histórico
+
